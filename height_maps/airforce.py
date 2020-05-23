@@ -16,4 +16,3 @@ airforce_height_map_1 = {
         'height': 0.5
     }
 }
- 
